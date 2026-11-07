@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+.env
+vendor/
+node_modules/
